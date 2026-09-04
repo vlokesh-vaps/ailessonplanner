@@ -1,10 +1,10 @@
-from textbook_retriever import (
+from src.retrieval.textbook_retriever import (
     retrieve_documents,
     documents_to_context,
     retrieve_textbook_context_near_pages
 )
 
-from query_generator import generate_retrieval_queries
+from src.retrieval.query_generator import generate_retrieval_queries
 from statistics import median
 
 topic = "Types of Chemical Reactions"

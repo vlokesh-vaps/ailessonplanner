@@ -1,150 +1,163 @@
 {
     "lessonMetadata": {
-        "topic": "Life Processes",
+        "topic": "Carbon and its Compounds",
         "level": "Class X",
         "lessonLengthMinutes": 60,
-        "scopeNote": "Focused on definition, maintenance functions, and essential components (diffusion, transport, nutrition, respiration, excretion) of life processes.",
+        "scopeNote": "",
         "sourcePageRange": {
-            "startPage": 91,
-            "endPage": 101
+            "startPage": 70,
+            "endPage": 77
         }
     },
     "sourceCoverage": [
         {
             "id": "T1",
-            "topic": "Definition of life processes and their role in maintenance of organisms",
+            "topic": "Carbon's tetravalency and catenation producing many compounds",
             "importance": "high",
-            "estimatedTeachingMinutes": 12
+            "estimatedTeachingMinutes": 8
         },
         {
             "id": "T2",
-            "topic": "Limitations of diffusion and need for specialised transport systems in multicellular organisms",
+            "topic": "Saturated vs unsaturated carbon compounds (single, double, triple bonds)",
             "importance": "high",
             "estimatedTeachingMinutes": 10
         },
         {
             "id": "T3",
-            "topic": "Nutrition: acquisition of energy and raw materials from food",
+            "topic": "Classification of hydrocarbons: alkanes, alkenes, alkynes",
             "importance": "medium",
-            "estimatedTeachingMinutes": 12
+            "estimatedTeachingMinutes": 8
         },
         {
             "id": "T4",
-            "topic": "Respiration and gas exchange (oxygen uptake, CO₂ release)",
+            "topic": "Wöhler's synthesis of urea disproving vital force theory",
             "importance": "medium",
-            "estimatedTeachingMinutes": 10
+            "estimatedTeachingMinutes": 4
         },
         {
             "id": "T5",
-            "topic": "Excretion and waste transport away from cells",
-            "importance": "low",
+            "topic": "Physical properties of carbon compounds (low melting/boiling, non‑conductivity)",
+            "importance": "medium",
             "estimatedTeachingMinutes": 6
+        },
+        {
+            "id": "T6",
+            "topic": "Carbon chain, branched, and cyclic structures (catenation)",
+            "importance": "high",
+            "estimatedTeachingMinutes": 8
         }
     ],
     "shared": {
         "learningObjectives": [
             {
                 "id": "LO1",
-                "objective": "Define life processes and explain why they are continuously required for organismal maintenance.",
+                "objective": "Explain how carbon's tetravalency and catenation enable the formation of a vast number of compounds.",
                 "relatedSourceTopics": [
-                    "T1"
+                    "T1",
+                    "T6"
                 ],
-                "estimatedTeachingMinutes": 8,
-                "teacherFocus": "Emphasise that maintenance occurs even when no visible activity is seen."
+                "estimatedTeachingMinutes": 10,
+                "teacherFocus": "Emphasize the structural flexibility of carbon."
             },
             {
                 "id": "LO2",
-                "objective": "Explain why diffusion alone cannot satisfy oxygen needs of multicellular organisms and describe the role of specialised transport systems.",
+                "objective": "Distinguish saturated from unsaturated carbon compounds based on the type of C–C bonds present.",
                 "relatedSourceTopics": [
                     "T2"
                 ],
-                "estimatedTeachingMinutes": 8,
-                "teacherFocus": "Contrast simple diffusion with circulatory transport."
+                "estimatedTeachingMinutes": 12,
+                "teacherFocus": "Use clear bond‑type examples."
             },
             {
                 "id": "LO3",
-                "objective": "Describe nutrition as the process of obtaining energy and raw materials from food and its importance for growth and repair.",
+                "objective": "Classify hydrocarbons into alkanes, alkenes, and alkynes using bond criteria.",
                 "relatedSourceTopics": [
+                    "T2",
                     "T3"
                 ],
                 "estimatedTeachingMinutes": 10,
-                "teacherFocus": "Link food intake to molecular movement and maintenance."
+                "teacherFocus": "Link classification to bond types."
             },
             {
                 "id": "LO4",
-                "objective": "Outline the basic mechanisms of respiration in animals, including oxygen uptake and carbon‑dioxide release.",
+                "objective": "Describe the historical significance of Wöhler’s synthesis of urea for organic chemistry.",
                 "relatedSourceTopics": [
                     "T4"
                 ],
-                "estimatedTeachingMinutes": 8,
-                "teacherFocus": "Connect gas exchange to cellular activities."
+                "estimatedTeachingMinutes": 6,
+                "teacherFocus": "Connect experiment to the concept of synthetic organic compounds."
             },
             {
                 "id": "LO5",
-                "objective": "Summarise excretion as the removal of metabolic waste and explain why a transport system is needed to move waste away from cells.",
+                "objective": "Summarize typical physical properties of carbon compounds and explain their molecular basis.",
                 "relatedSourceTopics": [
                     "T5"
                 ],
-                "estimatedTeachingMinutes": 6,
-                "teacherFocus": "Highlight the continuity of waste removal with other life processes."
+                "estimatedTeachingMinutes": 8,
+                "teacherFocus": "Relate properties to intermolecular forces and lack of ions."
             }
         ],
         "prerequisiteKnowledge": [
-            "Basic cell structure and that cells are composed of molecules.",
-            "Understanding that organisms require energy to maintain order and carry out functions.",
-            "Familiarity with diffusion as the movement of molecules from higher to lower concentration."
+            "Understanding of covalent bonding and valence electrons.",
+            "Ability to read and write chemical formulas (e.g., C2H6).",
+            "Familiarity with single, double, and triple bonds."
         ],
         "keyTerms": [
             {
-                "term": "Life processes",
-                "definition": "The set of maintenance functions (e.g., nutrition, respiration, excretion) that keep an organism alive and ordered."
+                "term": "Tetravalency",
+                "definition": "The ability of carbon to form four covalent bonds with other atoms."
             },
             {
-                "term": "Diffusion",
-                "definition": "Passive movement of molecules from an area of higher concentration to lower concentration."
+                "term": "Catenation",
+                "definition": "The capability of carbon atoms to bond to each other, forming chains, branches, or rings."
             },
             {
-                "term": "Transport system",
-                "definition": "Specialised tissues or organs that move substances (e.g., gases, wastes) to and from cells."
+                "term": "Saturated compound",
+                "definition": "A carbon compound that contains only single C–C bonds."
             },
             {
-                "term": "Nutrition",
-                "definition": "The intake and processing of food to obtain energy and raw materials for growth and repair."
+                "term": "Unsaturated compound",
+                "definition": "A carbon compound that contains one or more double or triple C–C bonds."
             },
             {
-                "term": "Respiration",
-                "definition": "The process of taking in oxygen and releasing carbon dioxide to support cellular metabolism."
+                "term": "Hydrocarbon",
+                "definition": "A compound composed solely of carbon and hydrogen atoms."
             },
             {
-                "term": "Excretion",
-                "definition": "The removal of metabolic waste products from the body."
+                "term": "Alkane",
+                "definition": "A saturated hydrocarbon containing only single C–C bonds."
             },
             {
-                "term": "Raw materials",
-                "definition": "External substances taken in by an organism for building and repairing body structures."
+                "term": "Alkene",
+                "definition": "An unsaturated hydrocarbon containing at least one C=C double bond."
             },
             {
-                "term": "Molecular movement",
-                "definition": "The continual motion of molecules within cells that underlies all life processes."
+                "term": "Alkyne",
+                "definition": "An unsaturated hydrocarbon containing at least one C≡C triple bond."
+            },
+            {
+                "term": "Benzene",
+                "definition": "A cyclic hydrocarbon with formula C6H6, featuring a ring of six carbon atoms with alternating double bonds."
             }
         ],
         "questions": [
             {
                 "id": "Q1",
-                "question": "What are life processes and why must they continue even when an organism appears inactive?",
-                "expectedAnswer": "Life processes are the maintenance functions (nutrition, respiration, excretion, etc.) that keep an organism alive; they continue to repair and sustain order even when no visible activity occurs.",
+                "question": "What two structural features of carbon allow it to form a large variety of compounds?",
+                "expectedAnswer": "Tetravalency and catenation.",
                 "type": "short answer",
                 "relatedLearningObjectives": [
                     "LO1"
                 ],
                 "relatedSourceTopics": [
-                    "T1"
+                    "T1",
+                    "T6"
                 ]
             },
             {
                 "id": "Q2",
-                "question": "Why is diffusion insufficient to meet the oxygen requirements of multicellular organisms like humans?",
-                "expectedAnswer": "Because diffusion alone cannot deliver enough oxygen quickly to all cells in a large body; specialised transport systems (e.g., circulatory system) are needed to move oxygen efficiently.",
+                "question": "Define a saturated carbon compound and give an example.",
+                "expectedAnswer": "A compound with only single C–C bonds; e.g., ethane (C2H6).",
                 "type": "short answer",
                 "relatedLearningObjectives": [
                     "LO2"
@@ -155,20 +168,22 @@
             },
             {
                 "id": "Q3",
-                "question": "What does nutrition involve, and what are its main purposes for an organism?",
-                "expectedAnswer": "Nutrition involves taking in food, breaking it down, and using the resulting energy and raw materials for growth, development, and repair of body structures.",
+                "question": "How does an unsaturated compound differ in bonding, and name two types of unsaturated hydrocarbons.",
+                "expectedAnswer": "It contains double or triple C–C bonds; alkenes (double bonds) and alkynes (triple bonds).",
                 "type": "short answer",
                 "relatedLearningObjectives": [
+                    "LO2",
                     "LO3"
                 ],
                 "relatedSourceTopics": [
+                    "T2",
                     "T3"
                 ]
             },
             {
                 "id": "Q4",
-                "question": "How do animals obtain oxygen and remove carbon dioxide, and how does this relate to cellular respiration?",
-                "expectedAnswer": "Animals use respiratory organs (lungs, gills) to take in oxygen and expel carbon dioxide; the oxygen is then used in cells for metabolic reactions that release energy, while CO₂ is a waste product of those reactions.",
+                "question": "Which historical experiment disproved the 'vital force' theory, and what was synthesized?",
+                "expectedAnswer": "Friedrich Wöhler in 1828 synthesized urea from ammonium cyanate.",
                 "type": "short answer",
                 "relatedLearningObjectives": [
                     "LO4"
@@ -179,8 +194,8 @@
             },
             {
                 "id": "Q5",
-                "question": "What is excretion and why does it require a transport system to move waste away from cells?",
-                "expectedAnswer": "Excretion is the elimination of metabolic waste; a transport system is needed to carry waste from cells to excretory organs because waste cannot diffuse out quickly enough in multicellular organisms.",
+                "question": "List two typical physical properties of carbon compounds and explain why they occur.",
+                "expectedAnswer": "Low melting/boiling points and poor electrical conductivity because intermolecular forces are weak and the molecules are non‑ionic.",
                 "type": "short answer",
                 "relatedLearningObjectives": [
                     "LO5"
@@ -193,59 +208,23 @@
         "activities": [
             {
                 "id": "A1",
-                "title": "Concept Map of Life Processes",
+                "title": "Bond‑Type Sorting Card Game",
                 "estimatedMinutes": 12,
-                "description": "Students create a concept map linking the five life processes (nutrition, transport, respiration, excretion, and maintenance) and illustrate how they depend on each other.",
+                "description": "Students receive cards showing molecular formulas and must place each card under the correct heading: Alkane, Alkene, or Alkyne, based on the presence of single, double, or triple bonds.",
                 "relatedLearningObjectives": [
-                    "LO1",
                     "LO2",
-                    "LO3",
-                    "LO4",
-                    "LO5"
+                    "LO3"
                 ],
                 "relatedSourceTopics": [
-                    "T1",
                     "T2",
-                    "T3",
-                    "T4",
-                    "T5"
+                    "T3"
                 ]
             },
             {
                 "id": "A2",
-                "title": "Design a Simple Transport Model",
-                "estimatedMinutes": 14,
-                "description": "Working in pairs, students build a paper‑based model showing how food and oxygen are taken up in one part of a body and delivered to distant cells, highlighting why diffusion alone is insufficient.",
-                "relatedLearningObjectives": [
-                    "LO2"
-                ],
-                "relatedSourceTopics": [
-                    "T2"
-                ]
-            }
-        ],
-        "realWorldApplications": [
-            {
-                "id": "RW1",
-                "title": "Human Circulatory System",
-                "explanation": "The circulatory system transports oxygen‑rich blood from the lungs to all body cells and returns carbon‑dioxide‑rich blood to be expelled, matching the textbook description of a specialised transport system.",
-                "question": "How does the circulatory system overcome the limitations of diffusion to supply oxygen to every cell?",
-                "expectedAnswer": "It uses a network of blood vessels and a pumping heart to move oxygenated blood quickly throughout the body, delivering oxygen far beyond the short distances that diffusion can cover.",
-                "estimatedMinutes": 5,
-                "relatedLearningObjectives": [
-                    "LO2"
-                ],
-                "relatedSourceTopics": [
-                    "T2"
-                ]
-            },
-            {
-                "id": "RW2",
-                "title": "ATP as a Cellular Battery",
-                "explanation": "ATP stores energy released during respiration and provides it for many cellular activities, just as a battery powers different devices.",
-                "question": "Give two examples of cellular processes that use ATP and explain why ATP is suitable for these tasks.",
-                "expectedAnswer": "Muscle contraction and nerve impulse transmission; ATP releases a fixed amount of energy (≈30.5 kJ mol⁻¹) when its terminal phosphate bond is broken, providing a quick, reliable energy source for diverse functions.",
-                "estimatedMinutes": 4,
+                "title": "Historical Role‑Play: Wöhler’s Experiment",
+                "estimatedMinutes": 10,
+                "description": "In pairs, one student acts as Friedrich Wöhler and the other as a skeptical chemist of the era. They reenact the preparation of urea from ammonium cyanate and discuss its impact on the belief in vital force.",
                 "relatedLearningObjectives": [
                     "LO4"
                 ],
@@ -254,35 +233,73 @@
                 ]
             }
         ],
-        "keyPoints": [
+        "realWorldApplications": [
             {
-                "point": "Life processes are continuous maintenance functions that keep organisms alive even when they are at rest.",
-                "relatedSourceTopics": [
-                    "T1"
-                ]
-            },
-            {
-                "point": "Simple diffusion cannot supply enough oxygen and nutrients to all cells of a multicellular organism, so specialised transport systems are needed.",
-                "relatedSourceTopics": [
-                    "T2"
-                ]
-            },
-            {
-                "point": "Nutrition transfers food from the environment into the body, providing energy and carbon‑based raw materials for growth and repair.",
-                "relatedSourceTopics": [
-                    "T3"
-                ]
-            },
-            {
-                "point": "Aerobic respiration uses oxygen to produce ATP, the cell’s energy currency, and releases carbon‑dioxide as waste.",
+                "id": "RW1",
+                "title": "Urea Production in Agriculture",
+                "explanation": "Urea, first synthesized by Wöhler, is now manufactured on an industrial scale and used as a nitrogen fertilizer for crops.",
+                "question": "Why is the laboratory synthesis of urea historically important for modern agriculture?",
+                "expectedAnswer": "It showed that an organic compound could be made artificially, leading to large‑scale production of urea, which supplies essential nitrogen to plants.",
+                "estimatedMinutes": 5,
+                "relatedLearningObjectives": [
+                    "LO4"
+                ],
                 "relatedSourceTopics": [
                     "T4"
                 ]
             },
             {
-                "point": "Excretion transports harmful waste products away from cells and discards them outside the body.",
+                "id": "RW2",
+                "title": "Choosing Materials Based on Electrical Conductivity",
+                "explanation": "Because carbon compounds are poor conductors, they are used as insulating materials in electrical applications.",
+                "question": "How do the non‑conductive properties of carbon compounds influence their use in everyday items?",
+                "expectedAnswer": "Their inability to conduct electricity makes them suitable for insulating components such as plastic casings and non‑metallic wiring sheaths.",
+                "estimatedMinutes": 4,
+                "relatedLearningObjectives": [
+                    "LO5"
+                ],
                 "relatedSourceTopics": [
                     "T5"
+                ]
+            }
+        ],
+        "keyPoints": [
+            {
+                "point": "Carbon can form four covalent bonds and link to other carbon atoms, creating countless compounds.",
+                "relatedSourceTopics": [
+                    "T1",
+                    "T6"
+                ]
+            },
+            {
+                "point": "Hydrocarbons are grouped as alkanes, alkenes, or alkynes based on the type of carbon‑carbon bonds they contain.",
+                "relatedSourceTopics": [
+                    "T2",
+                    "T3"
+                ]
+            },
+            {
+                "point": "Saturated compounds contain only single bonds; unsaturated compounds contain double or triple bonds.",
+                "relatedSourceTopics": [
+                    "T2"
+                ]
+            },
+            {
+                "point": "Wöhler’s 1828 preparation of urea from ammonium cyanate disproved the vital‑force theory of organic synthesis.",
+                "relatedSourceTopics": [
+                    "T4"
+                ]
+            },
+            {
+                "point": "Carbon compounds generally have low melting/boiling points and do not conduct electricity.",
+                "relatedSourceTopics": [
+                    "T5"
+                ]
+            },
+            {
+                "point": "Carbon atoms can arrange into straight chains, branched chains, or cyclic (ring) structures, each being saturated or unsaturated.",
+                "relatedSourceTopics": [
+                    "T6"
                 ]
             }
         ]
@@ -290,43 +307,53 @@
     "studentOnly": {
         "coreNotes": [
             {
-                "heading": "What Are Life Processes?",
-                "summary": "Life processes are continuous maintenance functions that keep organisms alive even when they are at rest.",
-                "content": "• All living organisms must constantly perform maintenance jobs such as repairing cells, regulating temperature, and keeping internal conditions stable.\n\n• These jobs continue whether the organism is active, sitting, or asleep.\n\n• The collection of these jobs is called life processes.\n\n• Energy is required for every maintenance activity, and this energy must be obtained from outside the body.",
+                "heading": "Carbon’s Tetravalency and Catenation",
+                "summary": "Carbon can form four covalent bonds and link to other carbon atoms, creating countless compounds.",
+                "content": "Carbon has an atomic number of 6 and four valence electrons, giving it a tetravalent nature. Because each carbon can bond to up to four other atoms, it can also bond to other carbon atoms. This ability, called catenation, allows the formation of long chains, branched structures, and rings. The combination of tetravalency and catenation is the reason for the very large number of carbon‑containing compounds.\n\n• Tetravalent: forms four covalent bonds\n\n• Catenation: carbon‑carbon bonding creates chains, branches, cycles",
                 "relatedSourceTopics": [
-                    "T1"
+                    "T1",
+                    "T6"
                 ]
             },
             {
-                "heading": "Why Diffusion Is Not Enough in Multicellular Organisms",
-                "summary": "Simple diffusion cannot supply enough oxygen and nutrients to all cells of a multicellular organism, so specialised transport systems are needed.",
-                "content": "• Diffusion works over very short distances; in large bodies the distance from the surface to interior cells is too great.\n\n• Multicellular organisms have specialised tissues that take up food and oxygen in one location.\n\n• A transport system (e.g., circulatory system) moves these substances to every cell.\n\n• Without such a system, interior cells would not receive the oxygen and nutrients they need.",
+                "heading": "Classification of Hydrocarbons",
+                "summary": "Hydrocarbons are grouped as alkanes, alkenes, or alkynes based on the type of carbon‑carbon bonds they contain.",
+                "content": "All compounds that contain only carbon and hydrogen are called hydrocarbons. When every carbon‑carbon bond is a single bond, the hydrocarbon is saturated and is named an alkane. If one or more carbon‑carbon double bonds are present, the compound is unsaturated and called an alkene. When one or more carbon‑carbon triple bonds occur, the compound is an alkyne. These names reflect the bond type present in the molecule.\n\n• Alkane – only single C–C bonds (saturated)\n\n• Alkene – at least one C=C double bond (unsaturated)\n\n• Alkyne – at least one C≡C triple bond (unsaturated)",
+                "relatedSourceTopics": [
+                    "T2",
+                    "T3"
+                ]
+            },
+            {
+                "heading": "Saturated vs. Unsaturated Carbon Compounds",
+                "summary": "Saturated compounds contain only single bonds; unsaturated compounds contain double or triple bonds.",
+                "content": "A saturated carbon compound has the maximum number of hydrogen atoms attached to each carbon because all carbon‑carbon connections are single bonds. Unsaturated compounds have fewer hydrogen atoms because double or triple bonds replace some C–H bonds. For example, ethane (C₂H₆) is saturated, while ethene (C₂H₄) is unsaturated due to a C=C double bond.\n\n• Saturated → all single C–C bonds\n\n• Unsaturated → one or more C=C or C≡C bonds",
                 "relatedSourceTopics": [
                     "T2"
                 ]
             },
             {
-                "heading": "Nutrition – Getting Energy and Raw Materials",
-                "summary": "Nutrition transfers food from the environment into the body, providing energy and carbon‑based raw materials for growth and repair.",
-                "content": "• Food is the external source of energy and carbon‑based molecules.\n\n• The process of moving food into the body is called nutrition.\n\n• Different organisms break down food in various ways, depending on the complexity of the carbon source.\n\n• The energy obtained is later used for all life processes, including building new tissue and repairing damage.",
-                "relatedSourceTopics": [
-                    "T3"
-                ]
-            },
-            {
-                "heading": "Respiration and Gas Exchange",
-                "summary": "Aerobic respiration uses oxygen to produce ATP, the cell’s energy currency, and releases carbon‑dioxide as waste.",
-                "content": "• Oxygen is taken up from the environment and delivered to cells via the transport system.\n\n• Inside cells, oxygen participates in aerobic respiration, producing ATP from ADP and inorganic phosphate.\n\n• Breaking the terminal phosphate bond of ATP releases about 30.5 kJ mol⁻¹ of energy.\n\n• ATP powers muscle contraction, protein synthesis, nerve impulses, and many other cellular activities.\n\n• Carbon‑dioxide produced in respiration diffuses out of cells and is expelled from the body.",
+                "heading": "Historical Milestone – Wöhler’s Synthesis of Urea",
+                "summary": "Wöhler’s 1828 preparation of urea from ammonium cyanate disproved the vital‑force theory of organic synthesis.",
+                "content": "It was once believed that organic compounds could only be produced by living organisms because a ‘vital force’ was required. In 1828, Friedrich Wöhler synthesized urea, an organic compound, from the inorganic ammonium cyanate. This experiment showed that organic molecules can be created in the laboratory without any vital force, marking the birth of modern organic chemistry.",
                 "relatedSourceTopics": [
                     "T4"
                 ]
             },
             {
-                "heading": "Excretion – Removing Metabolic Waste",
-                "summary": "Excretion transports harmful waste products away from cells and discards them outside the body.",
-                "content": "• Metabolic reactions generate by‑products that are useless or harmful to cells.\n\n• These wastes must be removed to prevent damage.\n\n• A specialised transport system carries waste from cells to excretory organs, where it is eliminated from the body.\n\n• Efficient excretion is essential for maintaining internal balance and health.",
+                "heading": "Physical Properties of Carbon Compounds",
+                "summary": "Carbon compounds generally have low melting/boiling points and do not conduct electricity.",
+                "content": "Data on carbon compounds show they melt and boil at lower temperatures than ionic substances, indicating weak intermolecular forces. They are also poor conductors of electricity, which means their bonding does not produce ions. These properties arise because the molecules are held together mainly by weak van der Waals forces rather than strong ionic bonds.\n\n• Low melting & boiling points\n\n• Non‑conductive (no ions)\n\n• Weak intermolecular attractions",
                 "relatedSourceTopics": [
                     "T5"
+                ]
+            },
+            {
+                "heading": "Structural Variety – Chains, Branches, and Rings",
+                "summary": "Carbon atoms can arrange into straight chains, branched chains, or cyclic (ring) structures, each being saturated or unsaturated.",
+                "content": "Because of catenation, carbon atoms can link in several ways:\n\n• Straight (linear) chains – e.g., methane, ethane\n\n• Branched chains – carbon atoms form side‑branches off the main chain\n\n• Cyclic structures – carbon atoms close to form a ring, such as benzene (C₆H₆)\nEach of these frameworks may be saturated (only single bonds) or unsaturated (containing double or triple bonds).",
+                "relatedSourceTopics": [
+                    "T6"
                 ]
             }
         ]
@@ -351,24 +378,25 @@
             },
             {
                 "startMinute": 5,
-                "endMinute": 13,
-                "durationMinutes": 8,
+                "endMinute": 15,
+                "durationMinutes": 10,
                 "stage": "Teaching Phase 1",
-                "teacherDirection": "Emphasise that maintenance occurs even when no visible activity is seen.",
+                "teacherDirection": "Emphasize the structural flexibility of carbon.",
                 "studentAction": "Listen, annotate notes, respond to checks for understanding and apply knowledge to examples.",
                 "relatedLearningObjectives": [
                     "LO1"
                 ],
                 "relatedSourceTopics": [
-                    "T1"
+                    "T1",
+                    "T6"
                 ]
             },
             {
-                "startMinute": 13,
-                "endMinute": 21,
-                "durationMinutes": 8,
+                "startMinute": 15,
+                "endMinute": 26,
+                "durationMinutes": 11,
                 "stage": "Teaching Phase 2",
-                "teacherDirection": "Contrast simple diffusion with circulatory transport. Use the real-world application 'Human Circulatory System': The circulatory system transports oxygen‑rich blood from the lungs to all body cells and returns carbon‑dioxide‑rich blood to be expelled, matching the textbook description of a specialised transport system. Ask students: How does the circulatory system overcome the limitations of diffusion to supply oxygen to every cell?",
+                "teacherDirection": "Use clear bond‑type examples.",
                 "studentAction": "Listen, annotate notes, respond to checks for understanding and apply knowledge to examples.",
                 "relatedLearningObjectives": [
                     "LO2"
@@ -378,25 +406,26 @@
                 ]
             },
             {
-                "startMinute": 21,
-                "endMinute": 31,
+                "startMinute": 26,
+                "endMinute": 36,
                 "durationMinutes": 10,
                 "stage": "Teaching Phase 3",
-                "teacherDirection": "Link food intake to molecular movement and maintenance.",
+                "teacherDirection": "Link classification to bond types.",
                 "studentAction": "Listen, annotate notes, respond to checks for understanding and apply knowledge to examples.",
                 "relatedLearningObjectives": [
                     "LO3"
                 ],
                 "relatedSourceTopics": [
+                    "T2",
                     "T3"
                 ]
             },
             {
-                "startMinute": 31,
-                "endMinute": 39,
-                "durationMinutes": 8,
+                "startMinute": 36,
+                "endMinute": 42,
+                "durationMinutes": 6,
                 "stage": "Teaching Phase 4",
-                "teacherDirection": "Connect gas exchange to cellular activities. Use the real-world application 'ATP as a Cellular Battery': ATP stores energy released during respiration and provides it for many cellular activities, just as a battery powers different devices. Ask students: Give two examples of cellular processes that use ATP and explain why ATP is suitable for these tasks.",
+                "teacherDirection": "Connect experiment to the concept of synthetic organic compounds. Use the real-world application 'Urea Production in Agriculture': Urea, first synthesized by Wöhler, is now manufactured on an industrial scale and used as a nitrogen fertilizer for crops. Ask students: Why is the laboratory synthesis of urea historically important for modern agriculture?",
                 "studentAction": "Listen, annotate notes, respond to checks for understanding and apply knowledge to examples.",
                 "relatedLearningObjectives": [
                     "LO4"
@@ -406,38 +435,16 @@
                 ]
             },
             {
-                "startMinute": 39,
-                "endMinute": 45,
-                "durationMinutes": 6,
+                "startMinute": 42,
+                "endMinute": 50,
+                "durationMinutes": 8,
                 "stage": "Teaching Phase 5",
-                "teacherDirection": "Highlight the continuity of waste removal with other life processes.",
+                "teacherDirection": "Relate properties to intermolecular forces and lack of ions. Use the real-world application 'Choosing Materials Based on Electrical Conductivity': Because carbon compounds are poor conductors, they are used as insulating materials in electrical applications. Ask students: How do the non‑conductive properties of carbon compounds influence their use in everyday items?",
                 "studentAction": "Listen, annotate notes, respond to checks for understanding and apply knowledge to examples.",
                 "relatedLearningObjectives": [
                     "LO5"
                 ],
                 "relatedSourceTopics": [
-                    "T5"
-                ]
-            },
-            {
-                "startMinute": 45,
-                "endMinute": 50,
-                "durationMinutes": 5,
-                "stage": "Consolidation / Review",
-                "teacherDirection": "Use the remaining time to revisit key points, check understanding, clarify difficult concepts or practise a short retrieval question.",
-                "studentAction": "Review key learning and ask questions about any remaining areas of uncertainty.",
-                "relatedLearningObjectives": [
-                    "LO1",
-                    "LO2",
-                    "LO3",
-                    "LO4",
-                    "LO5"
-                ],
-                "relatedSourceTopics": [
-                    "T1",
-                    "T2",
-                    "T3",
-                    "T4",
                     "T5"
                 ]
             },
@@ -460,7 +467,8 @@
                     "T2",
                     "T3",
                     "T4",
-                    "T5"
+                    "T5",
+                    "T6"
                 ]
             },
             {
@@ -482,41 +490,36 @@
                     "T2",
                     "T3",
                     "T4",
-                    "T5"
+                    "T5",
+                    "T6"
                 ]
             }
         ],
         "activityOptions": [
             {
                 "id": "A1",
-                "title": "Concept Map of Life Processes",
+                "title": "Bond‑Type Sorting Card Game",
                 "estimatedMinutes": 12,
-                "description": "Students create a concept map linking the five life processes (nutrition, transport, respiration, excretion, and maintenance) and illustrate how they depend on each other.",
+                "description": "Students receive cards showing molecular formulas and must place each card under the correct heading: Alkane, Alkene, or Alkyne, based on the presence of single, double, or triple bonds.",
                 "relatedLearningObjectives": [
-                    "LO1",
                     "LO2",
-                    "LO3",
-                    "LO4",
-                    "LO5"
+                    "LO3"
                 ],
                 "relatedSourceTopics": [
-                    "T1",
                     "T2",
-                    "T3",
-                    "T4",
-                    "T5"
+                    "T3"
                 ]
             },
             {
                 "id": "A2",
-                "title": "Design a Simple Transport Model",
-                "estimatedMinutes": 14,
-                "description": "Working in pairs, students build a paper‑based model showing how food and oxygen are taken up in one part of a body and delivered to distant cells, highlighting why diffusion alone is insufficient.",
+                "title": "Historical Role‑Play: Wöhler’s Experiment",
+                "estimatedMinutes": 10,
+                "description": "In pairs, one student acts as Friedrich Wöhler and the other as a skeptical chemist of the era. They reenact the preparation of urea from ammonium cyanate and discuss its impact on the belief in vital force.",
                 "relatedLearningObjectives": [
-                    "LO2"
+                    "LO4"
                 ],
                 "relatedSourceTopics": [
-                    "T2"
+                    "T4"
                 ]
             }
         ],
@@ -527,52 +530,46 @@
         "suggestedActivitiesIfTimeAvailable": [
             {
                 "id": "A1",
-                "title": "Concept Map of Life Processes",
+                "title": "Bond‑Type Sorting Card Game",
                 "estimatedMinutes": 12,
-                "description": "Students create a concept map linking the five life processes (nutrition, transport, respiration, excretion, and maintenance) and illustrate how they depend on each other.",
+                "description": "Students receive cards showing molecular formulas and must place each card under the correct heading: Alkane, Alkene, or Alkyne, based on the presence of single, double, or triple bonds.",
                 "relatedLearningObjectives": [
-                    "LO1",
                     "LO2",
-                    "LO3",
-                    "LO4",
-                    "LO5"
+                    "LO3"
                 ],
                 "relatedSourceTopics": [
-                    "T1",
                     "T2",
-                    "T3",
-                    "T4",
-                    "T5"
+                    "T3"
                 ]
             },
             {
                 "id": "A2",
-                "title": "Design a Simple Transport Model",
-                "estimatedMinutes": 14,
-                "description": "Working in pairs, students build a paper‑based model showing how food and oxygen are taken up in one part of a body and delivered to distant cells, highlighting why diffusion alone is insufficient.",
+                "title": "Historical Role‑Play: Wöhler’s Experiment",
+                "estimatedMinutes": 10,
+                "description": "In pairs, one student acts as Friedrich Wöhler and the other as a skeptical chemist of the era. They reenact the preparation of urea from ammonium cyanate and discuss its impact on the belief in vital force.",
                 "relatedLearningObjectives": [
-                    "LO2"
+                    "LO4"
                 ],
                 "relatedSourceTopics": [
-                    "T2"
+                    "T4"
                 ]
             }
         ],
-        "aiEstimatedTeachingMinutes": 40,
-        "finalTeachingMinutes": 40,
-        "teachingWasCompressed": false,
-        "genuineSpareMinutes": 5,
-        "consolidationMinutes": 5,
+        "aiEstimatedTeachingMinutes": 46,
+        "finalTeachingMinutes": 45,
+        "teachingWasCompressed": true,
+        "genuineSpareMinutes": 0,
+        "consolidationMinutes": 0,
         "teachingTimeByObjective": [
             {
                 "learningObjectiveId": "LO1",
-                "aiEstimatedMinutes": 8,
-                "scheduledMinutes": 8
+                "aiEstimatedMinutes": 10,
+                "scheduledMinutes": 10
             },
             {
                 "learningObjectiveId": "LO2",
-                "aiEstimatedMinutes": 8,
-                "scheduledMinutes": 8
+                "aiEstimatedMinutes": 12,
+                "scheduledMinutes": 11
             },
             {
                 "learningObjectiveId": "LO3",
@@ -581,13 +578,13 @@
             },
             {
                 "learningObjectiveId": "LO4",
-                "aiEstimatedMinutes": 8,
-                "scheduledMinutes": 8
+                "aiEstimatedMinutes": 6,
+                "scheduledMinutes": 6
             },
             {
                 "learningObjectiveId": "LO5",
-                "aiEstimatedMinutes": 6,
-                "scheduledMinutes": 6
+                "aiEstimatedMinutes": 8,
+                "scheduledMinutes": 8
             }
         ]
     }

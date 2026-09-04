@@ -1,7 +1,7 @@
 from dotenv import load_dotenv
 from langchain_groq import ChatGroq
 
-from textbook_retriever import retrieve_textbook_context
+from src.retrieval.textbook_retriever import retrieve_textbook_context
 
 
 load_dotenv()
@@ -16,9 +16,15 @@ llm = ChatGroq(
 topic = "types of chemical reactions combination decomposition displacement"
 
 
+# The current retriever expects a list of retrieval queries.
+queries = [
+    topic
+]
+
+
 context = retrieve_textbook_context(
-    topic,
-    k=5
+    queries,
+    k_per_query=5
 )
 
 

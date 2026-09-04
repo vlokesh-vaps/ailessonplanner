@@ -4025,7 +4025,7 @@ if __name__ == "__main__":
     # Enter the lesson topic you want to retrieve from the
     # textbook already stored in Chroma.
     #Types of Chemical Reactions, Acids, Bases and Salts, Carbon and its Compounds,Life Processes
-    CHAPTER_TITLE = "Life Processes"
+    CHAPTER_TITLE = "Carbon and its Compounds"
 
     # Leave as None if you want the model to infer the level
     # from the retrieved textbook material.

@@ -1,4 +1,4 @@
-from textbook_retriever import retrieve_textbook_context
+from src.retrieval.textbook_retriever import retrieve_textbook_context
 
 
 queries = [

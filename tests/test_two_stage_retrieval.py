@@ -1,5 +1,5 @@
-from textbook_retriever import retrieve_textbook_context
-from query_generator import generate_retrieval_queries
+from src.retrieval.textbook_retriever import retrieve_textbook_context
+from src.retrieval.query_generator import generate_retrieval_queries
 
 
 topic = "Types of Chemical Reactions"
