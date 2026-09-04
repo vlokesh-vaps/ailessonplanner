@@ -1,0 +1,594 @@
+{
+    "lessonMetadata": {
+        "topic": "Life Processes",
+        "level": "Class X",
+        "lessonLengthMinutes": 60,
+        "scopeNote": "Focused on definition, maintenance functions, and essential components (diffusion, transport, nutrition, respiration, excretion) of life processes.",
+        "sourcePageRange": {
+            "startPage": 91,
+            "endPage": 101
+        }
+    },
+    "sourceCoverage": [
+        {
+            "id": "T1",
+            "topic": "Definition of life processes and their role in maintenance of organisms",
+            "importance": "high",
+            "estimatedTeachingMinutes": 12
+        },
+        {
+            "id": "T2",
+            "topic": "Limitations of diffusion and need for specialised transport systems in multicellular organisms",
+            "importance": "high",
+            "estimatedTeachingMinutes": 10
+        },
+        {
+            "id": "T3",
+            "topic": "Nutrition: acquisition of energy and raw materials from food",
+            "importance": "medium",
+            "estimatedTeachingMinutes": 12
+        },
+        {
+            "id": "T4",
+            "topic": "Respiration and gas exchange (oxygen uptake, CO₂ release)",
+            "importance": "medium",
+            "estimatedTeachingMinutes": 10
+        },
+        {
+            "id": "T5",
+            "topic": "Excretion and waste transport away from cells",
+            "importance": "low",
+            "estimatedTeachingMinutes": 6
+        }
+    ],
+    "shared": {
+        "learningObjectives": [
+            {
+                "id": "LO1",
+                "objective": "Define life processes and explain why they are continuously required for organismal maintenance.",
+                "relatedSourceTopics": [
+                    "T1"
+                ],
+                "estimatedTeachingMinutes": 8,
+                "teacherFocus": "Emphasise that maintenance occurs even when no visible activity is seen."
+            },
+            {
+                "id": "LO2",
+                "objective": "Explain why diffusion alone cannot satisfy oxygen needs of multicellular organisms and describe the role of specialised transport systems.",
+                "relatedSourceTopics": [
+                    "T2"
+                ],
+                "estimatedTeachingMinutes": 8,
+                "teacherFocus": "Contrast simple diffusion with circulatory transport."
+            },
+            {
+                "id": "LO3",
+                "objective": "Describe nutrition as the process of obtaining energy and raw materials from food and its importance for growth and repair.",
+                "relatedSourceTopics": [
+                    "T3"
+                ],
+                "estimatedTeachingMinutes": 10,
+                "teacherFocus": "Link food intake to molecular movement and maintenance."
+            },
+            {
+                "id": "LO4",
+                "objective": "Outline the basic mechanisms of respiration in animals, including oxygen uptake and carbon‑dioxide release.",
+                "relatedSourceTopics": [
+                    "T4"
+                ],
+                "estimatedTeachingMinutes": 8,
+                "teacherFocus": "Connect gas exchange to cellular activities."
+            },
+            {
+                "id": "LO5",
+                "objective": "Summarise excretion as the removal of metabolic waste and explain why a transport system is needed to move waste away from cells.",
+                "relatedSourceTopics": [
+                    "T5"
+                ],
+                "estimatedTeachingMinutes": 6,
+                "teacherFocus": "Highlight the continuity of waste removal with other life processes."
+            }
+        ],
+        "prerequisiteKnowledge": [
+            "Basic cell structure and that cells are composed of molecules.",
+            "Understanding that organisms require energy to maintain order and carry out functions.",
+            "Familiarity with diffusion as the movement of molecules from higher to lower concentration."
+        ],
+        "keyTerms": [
+            {
+                "term": "Life processes",
+                "definition": "The set of maintenance functions (e.g., nutrition, respiration, excretion) that keep an organism alive and ordered."
+            },
+            {
+                "term": "Diffusion",
+                "definition": "Passive movement of molecules from an area of higher concentration to lower concentration."
+            },
+            {
+                "term": "Transport system",
+                "definition": "Specialised tissues or organs that move substances (e.g., gases, wastes) to and from cells."
+            },
+            {
+                "term": "Nutrition",
+                "definition": "The intake and processing of food to obtain energy and raw materials for growth and repair."
+            },
+            {
+                "term": "Respiration",
+                "definition": "The process of taking in oxygen and releasing carbon dioxide to support cellular metabolism."
+            },
+            {
+                "term": "Excretion",
+                "definition": "The removal of metabolic waste products from the body."
+            },
+            {
+                "term": "Raw materials",
+                "definition": "External substances taken in by an organism for building and repairing body structures."
+            },
+            {
+                "term": "Molecular movement",
+                "definition": "The continual motion of molecules within cells that underlies all life processes."
+            }
+        ],
+        "questions": [
+            {
+                "id": "Q1",
+                "question": "What are life processes and why must they continue even when an organism appears inactive?",
+                "expectedAnswer": "Life processes are the maintenance functions (nutrition, respiration, excretion, etc.) that keep an organism alive; they continue to repair and sustain order even when no visible activity occurs.",
+                "type": "short answer",
+                "relatedLearningObjectives": [
+                    "LO1"
+                ],
+                "relatedSourceTopics": [
+                    "T1"
+                ]
+            },
+            {
+                "id": "Q2",
+                "question": "Why is diffusion insufficient to meet the oxygen requirements of multicellular organisms like humans?",
+                "expectedAnswer": "Because diffusion alone cannot deliver enough oxygen quickly to all cells in a large body; specialised transport systems (e.g., circulatory system) are needed to move oxygen efficiently.",
+                "type": "short answer",
+                "relatedLearningObjectives": [
+                    "LO2"
+                ],
+                "relatedSourceTopics": [
+                    "T2"
+                ]
+            },
+            {
+                "id": "Q3",
+                "question": "What does nutrition involve, and what are its main purposes for an organism?",
+                "expectedAnswer": "Nutrition involves taking in food, breaking it down, and using the resulting energy and raw materials for growth, development, and repair of body structures.",
+                "type": "short answer",
+                "relatedLearningObjectives": [
+                    "LO3"
+                ],
+                "relatedSourceTopics": [
+                    "T3"
+                ]
+            },
+            {
+                "id": "Q4",
+                "question": "How do animals obtain oxygen and remove carbon dioxide, and how does this relate to cellular respiration?",
+                "expectedAnswer": "Animals use respiratory organs (lungs, gills) to take in oxygen and expel carbon dioxide; the oxygen is then used in cells for metabolic reactions that release energy, while CO₂ is a waste product of those reactions.",
+                "type": "short answer",
+                "relatedLearningObjectives": [
+                    "LO4"
+                ],
+                "relatedSourceTopics": [
+                    "T4"
+                ]
+            },
+            {
+                "id": "Q5",
+                "question": "What is excretion and why does it require a transport system to move waste away from cells?",
+                "expectedAnswer": "Excretion is the elimination of metabolic waste; a transport system is needed to carry waste from cells to excretory organs because waste cannot diffuse out quickly enough in multicellular organisms.",
+                "type": "short answer",
+                "relatedLearningObjectives": [
+                    "LO5"
+                ],
+                "relatedSourceTopics": [
+                    "T5"
+                ]
+            }
+        ],
+        "activities": [
+            {
+                "id": "A1",
+                "title": "Concept Map of Life Processes",
+                "estimatedMinutes": 12,
+                "description": "Students create a concept map linking the five life processes (nutrition, transport, respiration, excretion, and maintenance) and illustrate how they depend on each other.",
+                "relatedLearningObjectives": [
+                    "LO1",
+                    "LO2",
+                    "LO3",
+                    "LO4",
+                    "LO5"
+                ],
+                "relatedSourceTopics": [
+                    "T1",
+                    "T2",
+                    "T3",
+                    "T4",
+                    "T5"
+                ]
+            },
+            {
+                "id": "A2",
+                "title": "Design a Simple Transport Model",
+                "estimatedMinutes": 14,
+                "description": "Working in pairs, students build a paper‑based model showing how food and oxygen are taken up in one part of a body and delivered to distant cells, highlighting why diffusion alone is insufficient.",
+                "relatedLearningObjectives": [
+                    "LO2"
+                ],
+                "relatedSourceTopics": [
+                    "T2"
+                ]
+            }
+        ],
+        "realWorldApplications": [
+            {
+                "id": "RW1",
+                "title": "Human Circulatory System",
+                "explanation": "The circulatory system transports oxygen‑rich blood from the lungs to all body cells and returns carbon‑dioxide‑rich blood to be expelled, matching the textbook description of a specialised transport system.",
+                "question": "How does the circulatory system overcome the limitations of diffusion to supply oxygen to every cell?",
+                "expectedAnswer": "It uses a network of blood vessels and a pumping heart to move oxygenated blood quickly throughout the body, delivering oxygen far beyond the short distances that diffusion can cover.",
+                "estimatedMinutes": 5,
+                "relatedLearningObjectives": [
+                    "LO2"
+                ],
+                "relatedSourceTopics": [
+                    "T2"
+                ]
+            },
+            {
+                "id": "RW2",
+                "title": "ATP as a Cellular Battery",
+                "explanation": "ATP stores energy released during respiration and provides it for many cellular activities, just as a battery powers different devices.",
+                "question": "Give two examples of cellular processes that use ATP and explain why ATP is suitable for these tasks.",
+                "expectedAnswer": "Muscle contraction and nerve impulse transmission; ATP releases a fixed amount of energy (≈30.5 kJ mol⁻¹) when its terminal phosphate bond is broken, providing a quick, reliable energy source for diverse functions.",
+                "estimatedMinutes": 4,
+                "relatedLearningObjectives": [
+                    "LO4"
+                ],
+                "relatedSourceTopics": [
+                    "T4"
+                ]
+            }
+        ],
+        "keyPoints": [
+            {
+                "point": "Life processes are continuous maintenance functions that keep organisms alive even when they are at rest.",
+                "relatedSourceTopics": [
+                    "T1"
+                ]
+            },
+            {
+                "point": "Simple diffusion cannot supply enough oxygen and nutrients to all cells of a multicellular organism, so specialised transport systems are needed.",
+                "relatedSourceTopics": [
+                    "T2"
+                ]
+            },
+            {
+                "point": "Nutrition transfers food from the environment into the body, providing energy and carbon‑based raw materials for growth and repair.",
+                "relatedSourceTopics": [
+                    "T3"
+                ]
+            },
+            {
+                "point": "Aerobic respiration uses oxygen to produce ATP, the cell’s energy currency, and releases carbon‑dioxide as waste.",
+                "relatedSourceTopics": [
+                    "T4"
+                ]
+            },
+            {
+                "point": "Excretion transports harmful waste products away from cells and discards them outside the body.",
+                "relatedSourceTopics": [
+                    "T5"
+                ]
+            }
+        ]
+    },
+    "studentOnly": {
+        "coreNotes": [
+            {
+                "heading": "What Are Life Processes?",
+                "summary": "Life processes are continuous maintenance functions that keep organisms alive even when they are at rest.",
+                "content": "• All living organisms must constantly perform maintenance jobs such as repairing cells, regulating temperature, and keeping internal conditions stable.\n\n• These jobs continue whether the organism is active, sitting, or asleep.\n\n• The collection of these jobs is called life processes.\n\n• Energy is required for every maintenance activity, and this energy must be obtained from outside the body.",
+                "relatedSourceTopics": [
+                    "T1"
+                ]
+            },
+            {
+                "heading": "Why Diffusion Is Not Enough in Multicellular Organisms",
+                "summary": "Simple diffusion cannot supply enough oxygen and nutrients to all cells of a multicellular organism, so specialised transport systems are needed.",
+                "content": "• Diffusion works over very short distances; in large bodies the distance from the surface to interior cells is too great.\n\n• Multicellular organisms have specialised tissues that take up food and oxygen in one location.\n\n• A transport system (e.g., circulatory system) moves these substances to every cell.\n\n• Without such a system, interior cells would not receive the oxygen and nutrients they need.",
+                "relatedSourceTopics": [
+                    "T2"
+                ]
+            },
+            {
+                "heading": "Nutrition – Getting Energy and Raw Materials",
+                "summary": "Nutrition transfers food from the environment into the body, providing energy and carbon‑based raw materials for growth and repair.",
+                "content": "• Food is the external source of energy and carbon‑based molecules.\n\n• The process of moving food into the body is called nutrition.\n\n• Different organisms break down food in various ways, depending on the complexity of the carbon source.\n\n• The energy obtained is later used for all life processes, including building new tissue and repairing damage.",
+                "relatedSourceTopics": [
+                    "T3"
+                ]
+            },
+            {
+                "heading": "Respiration and Gas Exchange",
+                "summary": "Aerobic respiration uses oxygen to produce ATP, the cell’s energy currency, and releases carbon‑dioxide as waste.",
+                "content": "• Oxygen is taken up from the environment and delivered to cells via the transport system.\n\n• Inside cells, oxygen participates in aerobic respiration, producing ATP from ADP and inorganic phosphate.\n\n• Breaking the terminal phosphate bond of ATP releases about 30.5 kJ mol⁻¹ of energy.\n\n• ATP powers muscle contraction, protein synthesis, nerve impulses, and many other cellular activities.\n\n• Carbon‑dioxide produced in respiration diffuses out of cells and is expelled from the body.",
+                "relatedSourceTopics": [
+                    "T4"
+                ]
+            },
+            {
+                "heading": "Excretion – Removing Metabolic Waste",
+                "summary": "Excretion transports harmful waste products away from cells and discards them outside the body.",
+                "content": "• Metabolic reactions generate by‑products that are useless or harmful to cells.\n\n• These wastes must be removed to prevent damage.\n\n• A specialised transport system carries waste from cells to excretory organs, where it is eliminated from the body.\n\n• Efficient excretion is essential for maintaining internal balance and health.",
+                "relatedSourceTopics": [
+                    "T5"
+                ]
+            }
+        ]
+    },
+    "teacherOnly": {
+        "lessonSchedule": [
+            {
+                "startMinute": 0,
+                "endMinute": 5,
+                "durationMinutes": 5,
+                "stage": "Introduction",
+                "teacherDirection": "Introduce the lesson topic and learning objectives. Use brief retrieval questioning to activate relevant prerequisite knowledge.",
+                "studentAction": "Respond to retrieval questions and review the learning objectives.",
+                "relatedLearningObjectives": [
+                    "LO1",
+                    "LO2",
+                    "LO3",
+                    "LO4",
+                    "LO5"
+                ],
+                "relatedSourceTopics": []
+            },
+            {
+                "startMinute": 5,
+                "endMinute": 13,
+                "durationMinutes": 8,
+                "stage": "Teaching Phase 1",
+                "teacherDirection": "Emphasise that maintenance occurs even when no visible activity is seen.",
+                "studentAction": "Listen, annotate notes, respond to checks for understanding and apply knowledge to examples.",
+                "relatedLearningObjectives": [
+                    "LO1"
+                ],
+                "relatedSourceTopics": [
+                    "T1"
+                ]
+            },
+            {
+                "startMinute": 13,
+                "endMinute": 21,
+                "durationMinutes": 8,
+                "stage": "Teaching Phase 2",
+                "teacherDirection": "Contrast simple diffusion with circulatory transport. Use the real-world application 'Human Circulatory System': The circulatory system transports oxygen‑rich blood from the lungs to all body cells and returns carbon‑dioxide‑rich blood to be expelled, matching the textbook description of a specialised transport system. Ask students: How does the circulatory system overcome the limitations of diffusion to supply oxygen to every cell?",
+                "studentAction": "Listen, annotate notes, respond to checks for understanding and apply knowledge to examples.",
+                "relatedLearningObjectives": [
+                    "LO2"
+                ],
+                "relatedSourceTopics": [
+                    "T2"
+                ]
+            },
+            {
+                "startMinute": 21,
+                "endMinute": 31,
+                "durationMinutes": 10,
+                "stage": "Teaching Phase 3",
+                "teacherDirection": "Link food intake to molecular movement and maintenance.",
+                "studentAction": "Listen, annotate notes, respond to checks for understanding and apply knowledge to examples.",
+                "relatedLearningObjectives": [
+                    "LO3"
+                ],
+                "relatedSourceTopics": [
+                    "T3"
+                ]
+            },
+            {
+                "startMinute": 31,
+                "endMinute": 39,
+                "durationMinutes": 8,
+                "stage": "Teaching Phase 4",
+                "teacherDirection": "Connect gas exchange to cellular activities. Use the real-world application 'ATP as a Cellular Battery': ATP stores energy released during respiration and provides it for many cellular activities, just as a battery powers different devices. Ask students: Give two examples of cellular processes that use ATP and explain why ATP is suitable for these tasks.",
+                "studentAction": "Listen, annotate notes, respond to checks for understanding and apply knowledge to examples.",
+                "relatedLearningObjectives": [
+                    "LO4"
+                ],
+                "relatedSourceTopics": [
+                    "T4"
+                ]
+            },
+            {
+                "startMinute": 39,
+                "endMinute": 45,
+                "durationMinutes": 6,
+                "stage": "Teaching Phase 5",
+                "teacherDirection": "Highlight the continuity of waste removal with other life processes.",
+                "studentAction": "Listen, annotate notes, respond to checks for understanding and apply knowledge to examples.",
+                "relatedLearningObjectives": [
+                    "LO5"
+                ],
+                "relatedSourceTopics": [
+                    "T5"
+                ]
+            },
+            {
+                "startMinute": 45,
+                "endMinute": 50,
+                "durationMinutes": 5,
+                "stage": "Consolidation / Review",
+                "teacherDirection": "Use the remaining time to revisit key points, check understanding, clarify difficult concepts or practise a short retrieval question.",
+                "studentAction": "Review key learning and ask questions about any remaining areas of uncertainty.",
+                "relatedLearningObjectives": [
+                    "LO1",
+                    "LO2",
+                    "LO3",
+                    "LO4",
+                    "LO5"
+                ],
+                "relatedSourceTopics": [
+                    "T1",
+                    "T2",
+                    "T3",
+                    "T4",
+                    "T5"
+                ]
+            },
+            {
+                "startMinute": 50,
+                "endMinute": 55,
+                "durationMinutes": 5,
+                "stage": "Question Phase",
+                "teacherDirection": "Students complete Q1, Q2, Q3, Q4, Q5. Review answers and address remaining gaps in understanding.",
+                "studentAction": "Answer the lesson questions and review responses.",
+                "relatedLearningObjectives": [
+                    "LO1",
+                    "LO2",
+                    "LO3",
+                    "LO4",
+                    "LO5"
+                ],
+                "relatedSourceTopics": [
+                    "T1",
+                    "T2",
+                    "T3",
+                    "T4",
+                    "T5"
+                ]
+            },
+            {
+                "startMinute": 55,
+                "endMinute": 60,
+                "durationMinutes": 5,
+                "stage": "Reflection / Review",
+                "teacherDirection": "Review the learning objectives and identify areas requiring further review.",
+                "studentAction": "Review the learning objectives and identify any topic requiring further review.",
+                "relatedLearningObjectives": [
+                    "LO1",
+                    "LO2",
+                    "LO3",
+                    "LO4",
+                    "LO5"
+                ],
+                "relatedSourceTopics": [
+                    "T1",
+                    "T2",
+                    "T3",
+                    "T4",
+                    "T5"
+                ]
+            }
+        ],
+        "activityOptions": [
+            {
+                "id": "A1",
+                "title": "Concept Map of Life Processes",
+                "estimatedMinutes": 12,
+                "description": "Students create a concept map linking the five life processes (nutrition, transport, respiration, excretion, and maintenance) and illustrate how they depend on each other.",
+                "relatedLearningObjectives": [
+                    "LO1",
+                    "LO2",
+                    "LO3",
+                    "LO4",
+                    "LO5"
+                ],
+                "relatedSourceTopics": [
+                    "T1",
+                    "T2",
+                    "T3",
+                    "T4",
+                    "T5"
+                ]
+            },
+            {
+                "id": "A2",
+                "title": "Design a Simple Transport Model",
+                "estimatedMinutes": 14,
+                "description": "Working in pairs, students build a paper‑based model showing how food and oxygen are taken up in one part of a body and delivered to distant cells, highlighting why diffusion alone is insufficient.",
+                "relatedLearningObjectives": [
+                    "LO2"
+                ],
+                "relatedSourceTopics": [
+                    "T2"
+                ]
+            }
+        ],
+        "activityScheduled": false,
+        "selectedActivity": null,
+        "scheduledActivityMinutes": 0,
+        "activityRecommendationHeading": "Suggested Activities If Time Available",
+        "suggestedActivitiesIfTimeAvailable": [
+            {
+                "id": "A1",
+                "title": "Concept Map of Life Processes",
+                "estimatedMinutes": 12,
+                "description": "Students create a concept map linking the five life processes (nutrition, transport, respiration, excretion, and maintenance) and illustrate how they depend on each other.",
+                "relatedLearningObjectives": [
+                    "LO1",
+                    "LO2",
+                    "LO3",
+                    "LO4",
+                    "LO5"
+                ],
+                "relatedSourceTopics": [
+                    "T1",
+                    "T2",
+                    "T3",
+                    "T4",
+                    "T5"
+                ]
+            },
+            {
+                "id": "A2",
+                "title": "Design a Simple Transport Model",
+                "estimatedMinutes": 14,
+                "description": "Working in pairs, students build a paper‑based model showing how food and oxygen are taken up in one part of a body and delivered to distant cells, highlighting why diffusion alone is insufficient.",
+                "relatedLearningObjectives": [
+                    "LO2"
+                ],
+                "relatedSourceTopics": [
+                    "T2"
+                ]
+            }
+        ],
+        "aiEstimatedTeachingMinutes": 40,
+        "finalTeachingMinutes": 40,
+        "teachingWasCompressed": false,
+        "genuineSpareMinutes": 5,
+        "consolidationMinutes": 5,
+        "teachingTimeByObjective": [
+            {
+                "learningObjectiveId": "LO1",
+                "aiEstimatedMinutes": 8,
+                "scheduledMinutes": 8
+            },
+            {
+                "learningObjectiveId": "LO2",
+                "aiEstimatedMinutes": 8,
+                "scheduledMinutes": 8
+            },
+            {
+                "learningObjectiveId": "LO3",
+                "aiEstimatedMinutes": 10,
+                "scheduledMinutes": 10
+            },
+            {
+                "learningObjectiveId": "LO4",
+                "aiEstimatedMinutes": 8,
+                "scheduledMinutes": 8
+            },
+            {
+                "learningObjectiveId": "LO5",
+                "aiEstimatedMinutes": 6,
+                "scheduledMinutes": 6
+            }
+        ]
+    }
+}
