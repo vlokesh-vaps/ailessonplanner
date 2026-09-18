@@ -1,0 +1,574 @@
+{
+    "lessonMetadata": {
+        "topic": "Carbon and its Compounds",
+        "level": "Class X",
+        "lessonLengthMinutes": 60,
+        "scopeNote": "Focus on carbon's tetravalency, catenation, saturated vs unsaturated compounds, hydrocarbon classification, basic properties and historical context.",
+        "sourcePageRange": {
+            "startPage": 70,
+            "endPage": 77
+        }
+    },
+    "sourceCoverage": [
+        {
+            "id": "T1",
+            "topic": "Carbon's tetravalency and catenation",
+            "importance": "high",
+            "estimatedTeachingMinutes": 8
+        },
+        {
+            "id": "T2",
+            "topic": "Saturated and unsaturated carbon compounds",
+            "importance": "high",
+            "estimatedTeachingMinutes": 12
+        },
+        {
+            "id": "T3",
+            "topic": "Classification of hydrocarbons (alkanes, alkenes, alkynes, benzene)",
+            "importance": "medium",
+            "estimatedTeachingMinutes": 10
+        },
+        {
+            "id": "T4",
+            "topic": "Physical properties of carbon compounds (melting/boiling points, conductivity)",
+            "importance": "low",
+            "estimatedTeachingMinutes": 5
+        },
+        {
+            "id": "T5",
+            "topic": "Historical note: Wöhler's synthesis of urea",
+            "importance": "low",
+            "estimatedTeachingMinutes": 5
+        }
+    ],
+    "shared": {
+        "learningObjectives": [
+            {
+                "id": "LO1",
+                "objective": "Explain how carbon's tetravalency and catenation enable it to form a vast number of compounds.",
+                "relatedSourceTopics": [
+                    "T1"
+                ],
+                "estimatedTeachingMinutes": 8,
+                "teacherFocus": "Emphasize the four valence electrons and the ability of carbon atoms to bond with each other."
+            },
+            {
+                "id": "LO2",
+                "objective": "Distinguish saturated from unsaturated carbon compounds by identifying the types of C–C bonds present.",
+                "relatedSourceTopics": [
+                    "T2"
+                ],
+                "estimatedTeachingMinutes": 12,
+                "teacherFocus": "Use structural formulas of methane, ethane, ethene, and ethyne as examples."
+            },
+            {
+                "id": "LO3",
+                "objective": "Classify hydrocarbons into alkanes, alkenes, alkynes, and aromatic (benzene) based on bond types and structure.",
+                "relatedSourceTopics": [
+                    "T3"
+                ],
+                "estimatedTeachingMinutes": 10,
+                "teacherFocus": "Highlight single, double, triple bonds and the cyclic structure of benzene."
+            },
+            {
+                "id": "LO4",
+                "objective": "Describe the typical physical properties of carbon compounds and relate them to intermolecular forces.",
+                "relatedSourceTopics": [
+                    "T4"
+                ],
+                "estimatedTeachingMinutes": 6,
+                "teacherFocus": "Compare melting/boiling points and electrical conductivity with ionic compounds."
+            },
+            {
+                "id": "LO5",
+                "objective": "Summarize the significance of Wöhler’s synthesis of urea in the history of organic chemistry.",
+                "relatedSourceTopics": [
+                    "T5"
+                ],
+                "estimatedTeachingMinutes": 4,
+                "teacherFocus": "Link the experiment to the disproval of the ‘vital force’ theory."
+            }
+        ],
+        "prerequisiteKnowledge": [
+            "Understanding of covalent bonding and the concept of valence electrons.",
+            "Knowledge of carbon’s atomic number (6) and its electron configuration.",
+            "Familiarity with chemical formulas and bond notation (single, double, triple bonds)."
+        ],
+        "keyTerms": [
+            {
+                "term": "Tetravalency",
+                "definition": "The ability of carbon to form four covalent bonds because it has four valence electrons."
+            },
+            {
+                "term": "Catenation",
+                "definition": "The property of carbon atoms to bond with each other, forming chains, branched structures, or rings."
+            },
+            {
+                "term": "Saturated hydrocarbon",
+                "definition": "A hydrocarbon containing only single C–C bonds; also called an alkane."
+            },
+            {
+                "term": "Unsaturated hydrocarbon",
+                "definition": "A hydrocarbon that contains one or more double or triple C–C bonds; includes alkenes and alkynes."
+            },
+            {
+                "term": "Alkane",
+                "definition": "A saturated hydrocarbon with the general formula CnH2n+2."
+            },
+            {
+                "term": "Alkene",
+                "definition": "An unsaturated hydrocarbon containing at least one C=C double bond; general formula CnH2n."
+            },
+            {
+                "term": "Alkyne",
+                "definition": "An unsaturated hydrocarbon containing at least one C≡C triple bond; general formula CnH2n‑2."
+            },
+            {
+                "term": "Benzene",
+                "definition": "An aromatic hydrocarbon with a six‑carbon ring and alternating double bonds, formula C6H6."
+            }
+        ],
+        "questions": [
+            {
+                "id": "Q1",
+                "question": "What two characteristic features of carbon give rise to the large number of its compounds?",
+                "expectedAnswer": "Tetravalency and catenation.",
+                "type": "short answer",
+                "relatedLearningObjectives": [
+                    "LO1"
+                ],
+                "relatedSourceTopics": [
+                    "T1"
+                ]
+            },
+            {
+                "id": "Q2",
+                "question": "Define a saturated hydrocarbon and provide an example.",
+                "expectedAnswer": "A hydrocarbon that contains only single C–C bonds; e.g., methane (CH4) or ethane (C2H6).",
+                "type": "short answer",
+                "relatedLearningObjectives": [
+                    "LO2"
+                ],
+                "relatedSourceTopics": [
+                    "T2"
+                ]
+            },
+            {
+                "id": "Q3",
+                "question": "Which type of carbon‑carbon bond is present in alkenes but absent in alkanes?",
+                "expectedAnswer": "A carbon‑carbon double bond (C=C).",
+                "type": "multiple choice",
+                "relatedLearningObjectives": [
+                    "LO2"
+                ],
+                "relatedSourceTopics": [
+                    "T2"
+                ]
+            },
+            {
+                "id": "Q4",
+                "question": "Classify the following compounds: C2H4 and C2H2.",
+                "expectedAnswer": "C2H4 is an alkene; C2H2 is an alkyne.",
+                "type": "short answer",
+                "relatedLearningObjectives": [
+                    "LO3"
+                ],
+                "relatedSourceTopics": [
+                    "T3"
+                ]
+            },
+            {
+                "id": "Q5",
+                "question": "Why do most carbon compounds have lower melting and boiling points than ionic compounds?",
+                "expectedAnswer": "Because they are held together by weak intermolecular forces rather than strong ionic bonds.",
+                "type": "short answer",
+                "relatedLearningObjectives": [
+                    "LO4"
+                ],
+                "relatedSourceTopics": [
+                    "T4"
+                ]
+            }
+        ],
+        "activities": [
+            {
+                "id": "A1",
+                "title": "Concept‑Map of Carbon Compounds",
+                "estimatedMinutes": 12,
+                "description": "Students create a concept map linking carbon’s tetravalency, catenation, saturated/unsaturated types, hydrocarbon classes, and physical properties.",
+                "relatedLearningObjectives": [
+                    "LO1",
+                    "LO2",
+                    "LO3",
+                    "LO4"
+                ],
+                "relatedSourceTopics": [
+                    "T1",
+                    "T2",
+                    "T3",
+                    "T4"
+                ]
+            },
+            {
+                "id": "A2",
+                "title": "Mini‑Research on Wöhler’s Experiment",
+                "estimatedMinutes": 13,
+                "description": "Students read a short summary of Wöhler’s synthesis of urea and write a brief paragraph explaining its impact on the view of organic chemistry.",
+                "relatedLearningObjectives": [
+                    "LO5"
+                ],
+                "relatedSourceTopics": [
+                    "T5"
+                ]
+            }
+        ],
+        "realWorldApplications": [
+            {
+                "id": "RW1",
+                "title": "Classifying Common Formulas",
+                "explanation": "Using the definitions from the textbook, students identify the hydrocarbon class for given molecular formulas.",
+                "question": "Given the formula C₂H₆, which class of hydrocarbon does it belong to?",
+                "expectedAnswer": "Alkane (a saturated hydrocarbon).",
+                "estimatedMinutes": 4,
+                "relatedLearningObjectives": [
+                    "LO2",
+                    "LO3"
+                ],
+                "relatedSourceTopics": [
+                    "T2",
+                    "T3"
+                ]
+            }
+        ],
+        "keyPoints": [
+            {
+                "point": "Carbon can form four covalent bonds and link to other carbon atoms, creating many compounds.",
+                "relatedSourceTopics": [
+                    "T1"
+                ]
+            },
+            {
+                "point": "Saturated compounds contain only single C–C bonds, while unsaturated compounds have double or triple bonds.",
+                "relatedSourceTopics": [
+                    "T2"
+                ]
+            },
+            {
+                "point": "Hydrocarbons are grouped as alkanes, alkenes, alkynes, or aromatic (benzene) based on bond type and structure.",
+                "relatedSourceTopics": [
+                    "T3"
+                ]
+            },
+            {
+                "point": "Carbon compounds generally have low melting/boiling points and are poor electrical conductors.",
+                "relatedSourceTopics": [
+                    "T4"
+                ]
+            },
+            {
+                "point": "Wöhler’s 1828 preparation of urea disproved the idea that organic compounds require a ‘vital force’.",
+                "relatedSourceTopics": [
+                    "T5"
+                ]
+            }
+        ]
+    },
+    "studentOnly": {
+        "coreNotes": [
+            {
+                "heading": "Carbon’s Tetravalency and Catenation",
+                "summary": "Carbon can form four covalent bonds and link to other carbon atoms, creating many compounds.",
+                "content": "• Carbon has an atomic number of 6 and four valence electrons.\n\n• Its tetravalent nature lets it form up to four covalent bonds.\n\n• Catenation is the ability of carbon atoms to bond with each other, producing long chains, branched structures, and rings.\n\n• These two features together explain why carbon gives rise to a vast number of compounds.",
+                "relatedSourceTopics": [
+                    "T1"
+                ]
+            },
+            {
+                "heading": "Saturated vs. Unsaturated Carbon Compounds",
+                "summary": "Saturated compounds contain only single C–C bonds, while unsaturated compounds have double or triple bonds.",
+                "content": "• Saturated hydrocarbons (alkanes) have only single bonds between carbon atoms.\n\n• Unsaturated hydrocarbons contain one or more multiple bonds:\n\n• One or more double bonds → alkenes.\n\n• One or more triple bonds → alkynes.\n\n• The presence of multiple bonds reduces the number of hydrogen atoms attached to the carbon skeleton.",
+                "relatedSourceTopics": [
+                    "T2"
+                ]
+            },
+            {
+                "heading": "Classification of Hydrocarbons",
+                "summary": "Hydrocarbons are grouped as alkanes, alkenes, alkynes, or aromatic (benzene) based on bond type and structure.",
+                "content": "• Hydrocarbons contain only carbon and hydrogen.\n\n• Alkanes – saturated hydrocarbons with only single C–C bonds.\n\n• Alkenes – unsaturated hydrocarbons with at least one C=C double bond.\n\n• Alkynes – unsaturated hydrocarbons with at least one C≡C triple bond.\n\n• Benzene (C₆H₆) – an aromatic hydrocarbon with a cyclic structure and alternating double bonds, shown in Figure 4.10.",
+                "relatedSourceTopics": [
+                    "T3"
+                ]
+            },
+            {
+                "heading": "Physical Properties of Carbon Compounds",
+                "summary": "Carbon compounds generally have low melting/boiling points and are poor electrical conductors.",
+                "content": "• Table 4.1 shows that most carbon compounds melt and boil at lower temperatures than ionic compounds.\n\n• Weak intermolecular forces (e.g., Van der Waals) account for these low temperatures.\n\n• Because they do not form ions, carbon compounds are largely non‑conductors of electricity.\n\n• These properties contrast with the strong ionic bonds and high conductivity of typical ionic substances.",
+                "relatedSourceTopics": [
+                    "T4"
+                ]
+            },
+            {
+                "heading": "Historical Note: Wöhler’s Synthesis of Urea",
+                "summary": "Wöhler’s 1828 preparation of urea disproved the idea that organic compounds require a ‘vital force’.",
+                "content": "• Early chemists believed organic compounds could only be produced by living organisms.\n\n• Friedrich Wöhler converted ammonium cyanate, an inorganic salt, into urea, an organic compound.\n\n• This experiment showed that organic molecules can be synthesized without any ‘vital force’, marking the birth of modern organic chemistry.",
+                "relatedSourceTopics": [
+                    "T5"
+                ]
+            }
+        ]
+    },
+    "teacherOnly": {
+        "lessonSchedule": [
+            {
+                "startMinute": 0,
+                "endMinute": 5,
+                "durationMinutes": 5,
+                "stage": "Introduction",
+                "teacherDirection": "Introduce the lesson topic and learning objectives. Use brief retrieval questioning to activate relevant prerequisite knowledge.",
+                "studentAction": "Respond to retrieval questions and review the learning objectives.",
+                "relatedLearningObjectives": [
+                    "LO1",
+                    "LO2",
+                    "LO3",
+                    "LO4",
+                    "LO5"
+                ],
+                "relatedSourceTopics": []
+            },
+            {
+                "startMinute": 5,
+                "endMinute": 13,
+                "durationMinutes": 8,
+                "stage": "Teaching Phase 1",
+                "teacherDirection": "Emphasize the four valence electrons and the ability of carbon atoms to bond with each other.",
+                "studentAction": "Listen, annotate notes, respond to checks for understanding and apply knowledge to examples.",
+                "relatedLearningObjectives": [
+                    "LO1"
+                ],
+                "relatedSourceTopics": [
+                    "T1"
+                ]
+            },
+            {
+                "startMinute": 13,
+                "endMinute": 25,
+                "durationMinutes": 12,
+                "stage": "Teaching Phase 2",
+                "teacherDirection": "Use structural formulas of methane, ethane, ethene, and ethyne as examples. Use the real-world application 'Classifying Common Formulas': Using the definitions from the textbook, students identify the hydrocarbon class for given molecular formulas. Ask students: Given the formula C₂H₆, which class of hydrocarbon does it belong to?",
+                "studentAction": "Listen, annotate notes, respond to checks for understanding and apply knowledge to examples.",
+                "relatedLearningObjectives": [
+                    "LO2"
+                ],
+                "relatedSourceTopics": [
+                    "T2"
+                ]
+            },
+            {
+                "startMinute": 25,
+                "endMinute": 35,
+                "durationMinutes": 10,
+                "stage": "Teaching Phase 3",
+                "teacherDirection": "Highlight single, double, triple bonds and the cyclic structure of benzene.",
+                "studentAction": "Listen, annotate notes, respond to checks for understanding and apply knowledge to examples.",
+                "relatedLearningObjectives": [
+                    "LO3"
+                ],
+                "relatedSourceTopics": [
+                    "T3"
+                ]
+            },
+            {
+                "startMinute": 35,
+                "endMinute": 41,
+                "durationMinutes": 6,
+                "stage": "Teaching Phase 4",
+                "teacherDirection": "Compare melting/boiling points and electrical conductivity with ionic compounds.",
+                "studentAction": "Listen, annotate notes, respond to checks for understanding and apply knowledge to examples.",
+                "relatedLearningObjectives": [
+                    "LO4"
+                ],
+                "relatedSourceTopics": [
+                    "T4"
+                ]
+            },
+            {
+                "startMinute": 41,
+                "endMinute": 45,
+                "durationMinutes": 4,
+                "stage": "Teaching Phase 5",
+                "teacherDirection": "Link the experiment to the disproval of the ‘vital force’ theory.",
+                "studentAction": "Listen, annotate notes, respond to checks for understanding and apply knowledge to examples.",
+                "relatedLearningObjectives": [
+                    "LO5"
+                ],
+                "relatedSourceTopics": [
+                    "T5"
+                ]
+            },
+            {
+                "startMinute": 45,
+                "endMinute": 50,
+                "durationMinutes": 5,
+                "stage": "Consolidation / Review",
+                "teacherDirection": "Use the remaining time to revisit key points, check understanding, clarify difficult concepts or practise a short retrieval question.",
+                "studentAction": "Review key learning and ask questions about any remaining areas of uncertainty.",
+                "relatedLearningObjectives": [
+                    "LO1",
+                    "LO2",
+                    "LO3",
+                    "LO4",
+                    "LO5"
+                ],
+                "relatedSourceTopics": [
+                    "T1",
+                    "T2",
+                    "T3",
+                    "T4",
+                    "T5"
+                ]
+            },
+            {
+                "startMinute": 50,
+                "endMinute": 55,
+                "durationMinutes": 5,
+                "stage": "Question Phase",
+                "teacherDirection": "Students complete Q1, Q2, Q3, Q4, Q5. Review answers and address remaining gaps in understanding.",
+                "studentAction": "Answer the lesson questions and review responses.",
+                "relatedLearningObjectives": [
+                    "LO1",
+                    "LO2",
+                    "LO3",
+                    "LO4"
+                ],
+                "relatedSourceTopics": [
+                    "T1",
+                    "T2",
+                    "T3",
+                    "T4"
+                ]
+            },
+            {
+                "startMinute": 55,
+                "endMinute": 60,
+                "durationMinutes": 5,
+                "stage": "Reflection / Review",
+                "teacherDirection": "Review the learning objectives and identify areas requiring further review.",
+                "studentAction": "Review the learning objectives and identify any topic requiring further review.",
+                "relatedLearningObjectives": [
+                    "LO1",
+                    "LO2",
+                    "LO3",
+                    "LO4",
+                    "LO5"
+                ],
+                "relatedSourceTopics": [
+                    "T1",
+                    "T2",
+                    "T3",
+                    "T4",
+                    "T5"
+                ]
+            }
+        ],
+        "activityOptions": [
+            {
+                "id": "A1",
+                "title": "Concept‑Map of Carbon Compounds",
+                "estimatedMinutes": 12,
+                "description": "Students create a concept map linking carbon’s tetravalency, catenation, saturated/unsaturated types, hydrocarbon classes, and physical properties.",
+                "relatedLearningObjectives": [
+                    "LO1",
+                    "LO2",
+                    "LO3",
+                    "LO4"
+                ],
+                "relatedSourceTopics": [
+                    "T1",
+                    "T2",
+                    "T3",
+                    "T4"
+                ]
+            },
+            {
+                "id": "A2",
+                "title": "Mini‑Research on Wöhler’s Experiment",
+                "estimatedMinutes": 13,
+                "description": "Students read a short summary of Wöhler’s synthesis of urea and write a brief paragraph explaining its impact on the view of organic chemistry.",
+                "relatedLearningObjectives": [
+                    "LO5"
+                ],
+                "relatedSourceTopics": [
+                    "T5"
+                ]
+            }
+        ],
+        "activityScheduled": false,
+        "selectedActivity": null,
+        "scheduledActivityMinutes": 0,
+        "activityRecommendationHeading": "Suggested Activities If Time Available",
+        "suggestedActivitiesIfTimeAvailable": [
+            {
+                "id": "A1",
+                "title": "Concept‑Map of Carbon Compounds",
+                "estimatedMinutes": 12,
+                "description": "Students create a concept map linking carbon’s tetravalency, catenation, saturated/unsaturated types, hydrocarbon classes, and physical properties.",
+                "relatedLearningObjectives": [
+                    "LO1",
+                    "LO2",
+                    "LO3",
+                    "LO4"
+                ],
+                "relatedSourceTopics": [
+                    "T1",
+                    "T2",
+                    "T3",
+                    "T4"
+                ]
+            },
+            {
+                "id": "A2",
+                "title": "Mini‑Research on Wöhler’s Experiment",
+                "estimatedMinutes": 13,
+                "description": "Students read a short summary of Wöhler’s synthesis of urea and write a brief paragraph explaining its impact on the view of organic chemistry.",
+                "relatedLearningObjectives": [
+                    "LO5"
+                ],
+                "relatedSourceTopics": [
+                    "T5"
+                ]
+            }
+        ],
+        "aiEstimatedTeachingMinutes": 40,
+        "finalTeachingMinutes": 40,
+        "teachingWasCompressed": false,
+        "genuineSpareMinutes": 5,
+        "consolidationMinutes": 5,
+        "teachingTimeByObjective": [
+            {
+                "learningObjectiveId": "LO1",
+                "aiEstimatedMinutes": 8,
+                "scheduledMinutes": 8
+            },
+            {
+                "learningObjectiveId": "LO2",
+                "aiEstimatedMinutes": 12,
+                "scheduledMinutes": 12
+            },
+            {
+                "learningObjectiveId": "LO3",
+                "aiEstimatedMinutes": 10,
+                "scheduledMinutes": 10
+            },
+            {
+                "learningObjectiveId": "LO4",
+                "aiEstimatedMinutes": 6,
+                "scheduledMinutes": 6
+            },
+            {
+                "learningObjectiveId": "LO5",
+                "aiEstimatedMinutes": 4,
+                "scheduledMinutes": 4
+            }
+        ]
+    }
+}

@@ -1,0 +1,9 @@
+langchain-chroma
+langchain-core
+langchain-groq
+# Ollama must be installed separately, running, and accessible to the application.
+langchain-ollama
+langchain-text-splitters
+PyMuPDF
+python-dotenv
+reportlab

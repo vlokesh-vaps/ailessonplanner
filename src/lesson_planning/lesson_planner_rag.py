@@ -4033,7 +4033,7 @@ if __name__ == "__main__":
 
     LESSON_LENGTH = 60
 
-    result = generate_lesson_plan(
+    result = generate_lesson_plan( 
         chapter_title=CHAPTER_TITLE,
         level=LEVEL,
         lesson_length=LESSON_LENGTH
