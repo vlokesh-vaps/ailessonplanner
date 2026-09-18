@@ -7,3 +7,4 @@ langchain-text-splitters
 PyMuPDF
 python-dotenv
 reportlab
+chromadb
